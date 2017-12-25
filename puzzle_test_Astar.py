@@ -1,3 +1,6 @@
+# show A star searching method implementation in python
+# feng
+
 import numpy as np
 class State:
     def __init__(self,state,dFlag = None,parent = None,sfN = None,sfN_Mis = None,sgN = 0):
